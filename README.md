@@ -1,4 +1,7 @@
 # Ejercicio-3
+<<<<<<< HEAD
+Germán Sagr
+=======
 
 <<<<<<< HEAD
 Miguel Villar
